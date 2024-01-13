@@ -1,5 +1,6 @@
 # Big data engineering(BDE) notebook
   # tools of BDE introduction installation
+    # WIN 11 AMD6800
     # Pyspark on google Colab
     # Pyspark on win
       # scala/java/spark are needed before use the install Pyspark lib
@@ -13,7 +14,11 @@ https://spark.apache.org/docs/latest/index.html
       
 https://mvnrepository.com/artifact/org.apache.spark/spark-core
 
-      # 
+      # Creat a python environment for pyspark
+conda create -n pyspark_env python=3.9
+      # activate new env 
+activate pyspark_env
+(or conda activate pyspark_env)
     # linux server set of Pyspark
       # installations:
       # 
