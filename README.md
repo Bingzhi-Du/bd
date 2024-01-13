@@ -16,9 +16,9 @@ https://mvnrepository.com/artifact/org.apache.spark/spark-core
 
       # Creat a python environment for pyspark
 conda create -n pyspark_env python=3.9
-      # activate new env 
+      # activate new env (or conda activate pyspark_env)
 activate pyspark_env
-(or conda activate pyspark_env)
+      #
 
     # linux server set of Pyspark
       # installations:
