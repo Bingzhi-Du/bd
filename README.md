@@ -1,10 +1,10 @@
 # Big data engineering(BDE) notebook
   # tools of BDE introduction installation
-    # WIN 11 AMD6800
-    # Pyspark on google Colab
-    # Pyspark on win
-      # scala/java/spark are needed before use the install Pyspark lib
-      # Spark runs on Java 8/11/17, Scala 2.12/2.13, Python 3.8+, and R 3.5+ (3.5version)
+  WIN 11 AMD6800
+  Pyspark on google Colab
+  Pyspark on win
+  scala/java/spark are needed before use the install Pyspark lib
+  Spark runs on Java 8/11/17, Scala 2.12/2.13, Python 3.8+, and R 3.5+ (3.5version)
       
 https://spark.apache.org/docs/latest/index.html
       
