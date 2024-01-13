@@ -19,6 +19,7 @@ conda create -n pyspark_env python=3.9
       # activate new env 
 activate pyspark_env
 (or conda activate pyspark_env)
+
     # linux server set of Pyspark
       # installations:
       # 
