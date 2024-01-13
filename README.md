@@ -1,4 +1,21 @@
 # Big data engineering(BDE) notebook
+## Tools of BDE: Introduction and Installation
+### System Requirements
+- Windows 11
+- AMD Ryzen 6800
+### Using PySpark on Google Colab
+- [Instructions on setting up PySpark on Google Colab](<link-to-colab-setup>)
+### Using PySpark on Windows
+- [Guide for PySpark installation on Windows](<link-to-windows-setup>)
+### Prerequisites for PySpark
+Before installing PySpark, ensure that the following dependencies are installed:
+- Java (Spark runs on Java 8/11/17)
+- Scala (Version 2.12 or 2.13)
+- Spark
+> **Note**: PySpark requires Python version 3.8 or later, and for R users, R version 3.5 or later is needed.
+### Additional Resources
+- [Link to more detailed guides or resources](<resource-link>)
+
   # tools of BDE introduction installation
   WIN 11 AMD6800
   Pyspark on google Colab
