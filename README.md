@@ -4,7 +4,7 @@
 - Windows 11
 - AMD Ryzen 6800
 ### Prerequisites for PySpark
-Pyspark is a python lib to invoke the Spark on your computer/vm. Hence,before installing PySpark, ensure that the following dependencies are installed:
+Pyspark is a python lib to invoke the Spark on your computer/vm. Hence, before installing PySpark, ensure that the following dependencies are installed:
 - Java 17 LTS is recommened (java 21 LTS is NOT suit for spark 3.5 or 3.5-)
 - Scala (generally:Spark 3.+ match scala 2.12.X/2.13.X)
 - Spark
