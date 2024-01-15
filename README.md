@@ -14,6 +14,7 @@ Pyspark is a python lib to invoke the Spark on your computer/vm. Hence, before i
 
 https://mvnrepository.com/artifact/org.apache.spark/spark-core
 ### Using PySpark on Google Colab
+colab is strong and ready for running the Pyspark and spark SQL
 - [Instructions on setting up PySpark on Google Colab](<link-to-colab-setup>)
 - 
 ### Using PySpark on Windows
