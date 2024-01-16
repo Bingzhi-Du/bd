@@ -1,5 +1,5 @@
 # Big data engineering(BDE) notebook
-## Tools of BDE: Introduction and Installation
+## Tools of BDE: Introduction and Installation on win 11
 ### System Requirements
 - Windows 11
 - AMD Ryzen 6800
@@ -16,12 +16,12 @@ Once you have set the env use [win + R] to check the installation
 - [Link to version match check between Spark&Scala](<https://mvnrepository.com/artifact/org.apache.spark/spark-core>)
 - [Spark Second latest version is better](<https://spark.apache.org/downloads.html>)
 - [Hadoop is optional]
+
+
+
 ### Using PySpark on Google Colab
 colab is strong and ready for running the Pyspark and spark SQL
 - [Instructions on setting up PySpark on Google Colab](<link-to-colab-setup>)
-
-
-
 ### Using PySpark on Windows
 - [Guide for PySpark installation on Windows](<link-to-windows-setup>)
 - 
@@ -29,6 +29,10 @@ colab is strong and ready for running the Pyspark and spark SQL
       conda create -n pyspark_env python=3.9
       # activate new env (or conda activate pyspark_env)
       activate pyspark_env
+## Tools of BDE: Introduction and Installation on linux server
+### System Requirements
+- 
+- 
     # linux server set of Pyspark
       # installations:
       # 
