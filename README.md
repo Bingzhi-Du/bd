@@ -11,7 +11,7 @@ Pyspark is a python lib to invoke the Spark on your computer/vm. Hence, before i
 > **Note**: PySpark requires Python version 3.8 or later, and for R users, R version 3.5 or later is needed.
 ### Additional Resources
 - [Link to more detailed guides or resources](<https://spark.apache.org/docs/latest/index.html>)
-- [Link to version match check between Spark&Scala]https://mvnrepository.com/artifact/org.apache.spark/spark-core
+- [Link to version match check between Spark&Scala](<https://mvnrepository.com/artifact/org.apache.spark/spark-core>)
 ### Using PySpark on Google Colab
 colab is strong and ready for running the Pyspark and spark SQL
 - [Instructions on setting up PySpark on Google Colab](<link-to-colab-setup>)
