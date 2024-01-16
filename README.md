@@ -12,6 +12,8 @@ Pyspark is a python lib to invoke the Spark on your computer/vm. Hence, before i
 ### Additional Resources
 - [Java 17 LTS NOT Java 21](<https://www.oracle.com/java/technologies/downloads/#java17>)
 - [Link to version match check between Spark&Scala](<https://mvnrepository.com/artifact/org.apache.spark/spark-core>)
+- [Spark Second latest version is better](<https://spark.apache.org/downloads.html>)
+- [Hadoop is optional]
 ### Using PySpark on Google Colab
 colab is strong and ready for running the Pyspark and spark SQL
 - [Instructions on setting up PySpark on Google Colab](<link-to-colab-setup>)
