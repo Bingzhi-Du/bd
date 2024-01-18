@@ -12,7 +12,7 @@ Pyspark is a python lib to invoke the Spark on your computer/vm. Hence, before i
 > **Note**: PySpark requires Python version 3.8 or later, and for R users, R version 3.5 or later is needed.
 ### Path setting of Java, Scala, and Spark
 Once you have set the env use [win + R] to check the installation
-
+spark-shell
 ### Additional Resources
 - [Java 17 LTS NOT Java 21](<https://www.oracle.com/java/technologies/downloads/#java17>)
 - [Link to version match check between Spark&Scala](<https://mvnrepository.com/artifact/org.apache.spark/spark-core>)
