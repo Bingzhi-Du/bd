@@ -33,6 +33,7 @@ colab is strong and ready for running the Pyspark and spark SQL
 - [Instructions on setting up PySpark on Google Colab](<link-to-colab-setup>)
 
 ## Tools of BDE: Introduction and Installation on linux server
+### Linux sever setting
 ### System Requirements
 - 
 - 
